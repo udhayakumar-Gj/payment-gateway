@@ -10,7 +10,7 @@ a {
 }
 
 #carousel {
-    background-image: linear-gradient(to right bottom, #b123d8, #008eff, #00c3ff, #00e6db, #0afd74);
+    
     max-height: max-content;
 }
 
